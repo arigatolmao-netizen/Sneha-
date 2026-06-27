@@ -1,0 +1,7 @@
+Sneha-Date/
+│
+├── index.html      ← Main page
+├── style.css       ← All the design
+├── script.js       ← All animations & interactions
+├── music/
+└── images/
